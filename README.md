@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @ViniciusFantin
 - 👀 I’m interested in Backend and frontend
-- 🌱 I’m currently learning Reac.js and Next.js
+- 🌱 I’m currently working on App Finer 
 - 💞️ I’m looking to collaborate on a development team 
 
 <!---
